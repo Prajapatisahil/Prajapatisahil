@@ -1,4 +1,4 @@
-### Hi 👋 Sahil Prajapati.
+### Hi 👋 I'm Sahil Prajapati.
 
 🌱 I’m currently learning vue.js | React-Native |ML Python | AI | Computer Science
 
